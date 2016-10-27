@@ -1,0 +1,122 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {},
+    "objects": {},
+    "regions": {},
+    "relationships": {},
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    10,
+                    68
+                ],
+                [
+                    95,
+                    86
+                ]
+            ],
+            "value": "Rain, 50CF"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    65,
+                    141
+                ],
+                [
+                    166,
+                    164
+                ]
+            ],
+            "value": "Sqogy, 65cF"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    126,
+                    49
+                ],
+                [
+                    174,
+                    67
+                ]
+            ],
+            "value": "Snow,"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    179,
+                    52
+                ],
+                [
+                    219,
+                    66
+                ]
+            ],
+            "value": "28aF"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    308,
+                    72
+                ],
+                [
+                    367,
+                    92
+                ]
+            ],
+            "value": "Cloudy,"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    252,
+                    158
+                ],
+                [
+                    297,
+                    177
+                ]
+            ],
+            "value": "Partly"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    245,
+                    178
+                ],
+                [
+                    300,
+                    197
+                ]
+            ],
+            "value": "cloudy,"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    254,
+                    199
+                ],
+                [
+                    292,
+                    213
+                ]
+            ],
+            "value": "650F"
+        }
+    }
+}

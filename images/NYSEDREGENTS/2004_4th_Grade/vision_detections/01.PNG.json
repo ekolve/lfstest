@@ -1,0 +1,178 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {},
+    "objects": {},
+    "regions": {},
+    "relationships": {},
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    66,
+                    23
+                ],
+                [
+                    99,
+                    35
+                ]
+            ],
+            "value": "Date"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    185,
+                    23
+                ],
+                [
+                    242,
+                    35
+                ]
+            ],
+            "value": "Sunrise"
+        },
+        "T10": {
+            "id": "T10",
+            "rectangle": [
+                [
+                    312,
+                    116
+                ],
+                [
+                    377,
+                    130
+                ]
+            ],
+            "value": "5:40 p.m."
+        },
+        "T11": {
+            "id": "T11",
+            "rectangle": [
+                [
+                    246,
+                    145
+                ],
+                [
+                    411,
+                    154
+                ]
+            ],
+            "value": "Source: www\u00c6unneeeunset.com"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    26,
+                    54
+                ],
+                [
+                    102,
+                    69
+                ]
+            ],
+            "value": "February 8"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    180,
+                    55
+                ],
+                [
+                    246,
+                    66
+                ]
+            ],
+            "value": "7:00 a.m."
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    26,
+                    85
+                ],
+                [
+                    111,
+                    100
+                ]
+            ],
+            "value": "February 15"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    181,
+                    86
+                ],
+                [
+                    246,
+                    97
+                ]
+            ],
+            "value": "6:50 a.m."
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    26,
+                    115
+                ],
+                [
+                    111,
+                    130
+                ]
+            ],
+            "value": "February 22"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    181,
+                    116
+                ],
+                [
+                    246,
+                    127
+                ]
+            ],
+            "value": "6:40 a.m."
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    319,
+                    23
+                ],
+                [
+                    371,
+                    35
+                ]
+            ],
+            "value": "Sunset"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    312,
+                    55
+                ],
+                [
+                    373,
+                    69
+                ]
+            ],
+            "value": "5:20 pm"
+        }
+    }
+}

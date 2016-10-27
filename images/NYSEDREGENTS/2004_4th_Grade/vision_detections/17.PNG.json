@@ -1,0 +1,150 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {},
+    "objects": {},
+    "regions": {},
+    "relationships": {},
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    13,
+                    14
+                ],
+                [
+                    79,
+                    32
+                ]
+            ],
+            "value": "Sunlight"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    29,
+                    134
+                ],
+                [
+                    52,
+                    148
+                ]
+            ],
+            "value": "Air"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    18,
+                    153
+                ],
+                [
+                    63,
+                    167
+                ]
+            ],
+            "value": "pump"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    17,
+                    223
+                ],
+                [
+                    56,
+                    237
+                ]
+            ],
+            "value": "Snail"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    283,
+                    137
+                ],
+                [
+                    334,
+                    151
+                ]
+            ],
+            "value": "Castle"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    305,
+                    248
+                ],
+                [
+                    357,
+                    262
+                ]
+            ],
+            "value": "Gravel"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    173,
+                    96
+                ],
+                [
+                    205,
+                    110
+                ]
+            ],
+            "value": "Fish"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    188,
+                    131
+                ],
+                [
+                    258,
+                    151
+                ]
+            ],
+            "value": "Green*"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    114,
+                    141
+                ],
+                [
+                    163,
+                    158
+                ]
+            ],
+            "value": "I Rock"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    189,
+                    147
+                ],
+                [
+                    257,
+                    172
+                ]
+            ],
+            "value": "plants$"
+        }
+    }
+}

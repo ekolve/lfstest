@@ -1,0 +1,262 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {},
+    "objects": {},
+    "regions": {},
+    "relationships": {},
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    75,
+                    25
+                ],
+                [
+                    132,
+                    37
+                ]
+            ],
+            "value": "1989\u2014"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    138,
+                    25
+                ],
+                [
+                    297,
+                    40
+                ]
+            ],
+            "value": "Before Development"
+        },
+        "T10": {
+            "id": "T10",
+            "rectangle": [
+                [
+                    522,
+                    24
+                ],
+                [
+                    667,
+                    39
+                ]
+            ],
+            "value": "After Development"
+        },
+        "T11": {
+            "id": "T11",
+            "rectangle": [
+                [
+                    529,
+                    188
+                ],
+                [
+                    570,
+                    200
+                ]
+            ],
+            "value": "Trees"
+        },
+        "T12": {
+            "id": "T12",
+            "rectangle": [
+                [
+                    542,
+                    254
+                ],
+                [
+                    570,
+                    266
+                ]
+            ],
+            "value": "Bird"
+        },
+        "T13": {
+            "id": "T13",
+            "rectangle": [
+                [
+                    524,
+                    269
+                ],
+                [
+                    571,
+                    281
+                ]
+            ],
+            "value": "feeder"
+        },
+        "T14": {
+            "id": "T14",
+            "rectangle": [
+                [
+                    526,
+                    314
+                ],
+                [
+                    582,
+                    329
+                ]
+            ],
+            "value": "Squirrel"
+        },
+        "T15": {
+            "id": "T15",
+            "rectangle": [
+                [
+                    531,
+                    329
+                ],
+                [
+                    578,
+                    341
+                ]
+            ],
+            "value": "feeder"
+        },
+        "T16": {
+            "id": "T16",
+            "rectangle": [
+                [
+                    614,
+                    390
+                ],
+                [
+                    689,
+                    405
+                ]
+            ],
+            "value": "Apartment"
+        },
+        "T17": {
+            "id": "T17",
+            "rectangle": [
+                [
+                    624,
+                    407
+                ],
+                [
+                    680,
+                    422
+                ]
+            ],
+            "value": "building"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    162,
+                    218
+                ],
+                [
+                    208,
+                    230
+                ]
+            ],
+            "value": "Forest"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    180,
+                    321
+                ],
+                [
+                    239,
+                    333
+                ]
+            ],
+            "value": "Wetland"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    200,
+                    365
+                ],
+                [
+                    293,
+                    380
+                ]
+            ],
+            "value": "Slow-moving"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    221,
+                    379
+                ],
+                [
+                    271,
+                    391
+                ]
+            ],
+            "value": "stream"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    459,
+                    24
+                ],
+                [
+                    493,
+                    36
+                ]
+            ],
+            "value": "2001"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    403,
+                    286
+                ],
+                [
+                    483,
+                    298
+                ]
+            ],
+            "value": "Bird feeder"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    437,
+                    340
+                ],
+                [
+                    474,
+                    352
+                ]
+            ],
+            "value": "Pond"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    447,
+                    385
+                ],
+                [
+                    480,
+                    397
+                ]
+            ],
+            "value": "Dam"
+        }
+    }
+}

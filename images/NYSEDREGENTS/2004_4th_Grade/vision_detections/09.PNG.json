@@ -1,0 +1,24 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {},
+    "objects": {},
+    "regions": {},
+    "relationships": {},
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    230,
+                    43
+                ],
+                [
+                    242,
+                    50
+                ]
+            ],
+            "value": "\u2022a"
+        }
+    }
+}

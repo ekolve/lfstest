@@ -1,0 +1,80 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {},
+    "objects": {},
+    "regions": {},
+    "relationships": {},
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    26,
+                    39
+                ],
+                [
+                    57,
+                    53
+                ]
+            ],
+            "value": "Sun"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    87,
+                    179
+                ],
+                [
+                    156,
+                    193
+                ]
+            ],
+            "value": "Oak tree"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    303,
+                    179
+                ],
+                [
+                    357,
+                    193
+                ]
+            ],
+            "value": "Mouse"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    257,
+                    213
+                ],
+                [
+                    405,
+                    229
+                ]
+            ],
+            "value": "(Not drawn to scale)"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    512,
+                    179
+                ],
+                [
+                    542,
+                    193
+                ]
+            ],
+            "value": "owl"
+        }
+    }
+}

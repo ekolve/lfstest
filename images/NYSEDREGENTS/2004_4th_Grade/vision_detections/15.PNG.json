@@ -1,0 +1,206 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {},
+    "objects": {},
+    "regions": {},
+    "relationships": {},
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    75,
+                    31
+                ],
+                [
+                    124,
+                    47
+                ]
+            ],
+            "value": "F00d"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    24,
+                    78
+                ],
+                [
+                    60,
+                    94
+                ]
+            ],
+            "value": "Milk"
+        },
+        "T10": {
+            "id": "T10",
+            "rectangle": [
+                [
+                    301,
+                    156
+                ],
+                [
+                    323,
+                    171
+                ]
+            ],
+            "value": "30"
+        },
+        "T11": {
+            "id": "T11",
+            "rectangle": [
+                [
+                    302,
+                    194
+                ],
+                [
+                    323,
+                    209
+                ]
+            ],
+            "value": "10"
+        },
+        "T12": {
+            "id": "T12",
+            "rectangle": [
+                [
+                    312,
+                    232
+                ],
+                [
+                    322,
+                    247
+                ]
+            ],
+            "value": "6"
+        },
+        "T13": {
+            "id": "T13",
+            "rectangle": [
+                [
+                    59,
+                    270
+                ],
+                [
+                    439,
+                    284
+                ]
+            ],
+            "value": "*Percent Daily Values are based on a 2,000-calorie diet."
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    23,
+                    117
+                ],
+                [
+                    144,
+                    137
+                ]
+            ],
+            "value": "Orange juice"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    23,
+                    155
+                ],
+                [
+                    83,
+                    175
+                ]
+            ],
+            "value": "Yogurt"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    23,
+                    193
+                ],
+                [
+                    95,
+                    209
+                ]
+            ],
+            "value": "Ch eese"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    24,
+                    231
+                ],
+                [
+                    147,
+                    247
+                ]
+            ],
+            "value": "Baked beans"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    198,
+                    19
+                ],
+                [
+                    427,
+                    39
+                ]
+            ],
+            "value": "Percentage of Calcium"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    250,
+                    43
+                ],
+                [
+                    375,
+                    63
+                ]
+            ],
+            "value": "Per Serving*"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    301,
+                    79
+                ],
+                [
+                    323,
+                    94
+                ]
+            ],
+            "value": "30"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    313,
+                    118
+                ],
+                [
+                    324,
+                    133
+                ]
+            ],
+            "value": "2"
+        }
+    }
+}
